@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="VectorTests" tests="22" skipped="0" failures="0" errors="0" timestamp="2023-03-23T05:51:00" hostname="DESKTOP-4FVIPB8" time="0.059">
+  <properties/>
+  <testcase name="testForMultiplyingVector3ByScalar()" classname="VectorTests" time="0.002"/>
+  <testcase name="testForDividingVector2ByScalar()" classname="VectorTests" time="0.002"/>
+  <testcase name="testForNormalizeVector2()" classname="VectorTests" time="0.002"/>
+  <testcase name="testForNormalizeVector3()" classname="VectorTests" time="0.001"/>
+  <testcase name="testForNormalizeVector4()" classname="VectorTests" time="0.001"/>
+  <testcase name="testForCountVector3Length()" classname="VectorTests" time="0.003"/>
+  <testcase name="testForDividingVector4ByScalar()" classname="VectorTests" time="0.0"/>
+  <testcase name="testForCountVector4Length()" classname="VectorTests" time="0.0"/>
+  <testcase name="testForMultiplyingVector2ByScalar()" classname="VectorTests" time="0.004"/>
+  <testcase name="testForVectorMultiplyVectors3()" classname="VectorTests" time="0.002"/>
+  <testcase name="testForSumVectors2()" classname="VectorTests" time="0.001"/>
+  <testcase name="testForSumVectors3()" classname="VectorTests" time="0.001"/>
+  <testcase name="testForSumVectors4()" classname="VectorTests" time="0.001"/>
+  <testcase name="testForMultiplyingVector4ByScalar()" classname="VectorTests" time="0.0"/>
+  <testcase name="testForDividingVector3ByScalar()" classname="VectorTests" time="0.001"/>
+  <testcase name="testForSubtractionVectors2()" classname="VectorTests" time="0.0"/>
+  <testcase name="testForSubtractionVectors3()" classname="VectorTests" time="0.001"/>
+  <testcase name="testForSubtractionVectors4()" classname="VectorTests" time="0.001"/>
+  <testcase name="testForScalarMultiplyVectors2()" classname="VectorTests" time="0.001"/>
+  <testcase name="testForScalarMultiplyVectors3()" classname="VectorTests" time="0.002"/>
+  <testcase name="testForScalarMultiplyVectors4()" classname="VectorTests" time="0.001"/>
+  <testcase name="testForCountVector2Length()" classname="VectorTests" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
